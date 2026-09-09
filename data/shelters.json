@@ -1,0 +1,24 @@
+[
+  {
+    "id": "mahad_shelter",
+    "name": "Mahad Relief Shelter",
+    "lat": 18.1050,
+    "lon": 73.4350,
+    "capacity": 500,
+    "elevation_m": 42.0,
+    "district": "Raigad",
+    "address": "Mahad High School Ground, Raigad, Maharashtra",
+    "status": "active"
+  },
+  {
+    "id": "chiplun_shelter",
+    "name": "Chiplun Shelter",
+    "lat": 17.5580,
+    "lon": 73.5420,
+    "capacity": 650,
+    "elevation_m": 35.0,
+    "district": "Ratnagiri",
+    "address": "Chiplun Municipal Council Hall, Ratnagiri, Maharashtra",
+    "status": "active"
+  }
+]
